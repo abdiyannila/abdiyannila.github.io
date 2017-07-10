@@ -1,5 +1,5 @@
 # Start Jekyll
-* [Demo](http://abdiyannila.github.io)
+[Demo](http://abdiyannila.github.io)
 
 A getting started exercise with Jekyll. Jekyll with a simple and blog-aware static site generator built in Ruby.
 - Learn about static site generators
