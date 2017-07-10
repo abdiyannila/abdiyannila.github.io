@@ -1,0 +1,17 @@
+<!-- Untuk tampilan dasar  -->
+
+<!DOCTYPE html>
+<html>
+{% include head.html %} <!-- Head : About,Home,dll -->
+
+<body>
+	{% include header.html %} <!-- Header  -->
+	<main>
+		<article>
+			{{ content }}
+		</article> 
+		{% include footer.html %}
+	</main>
+	<hr>
+</body>
+</html>

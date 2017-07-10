@@ -1,0 +1,28 @@
+/**
+* #262626 = black
+* #425469 = desature blue warna background   #444269 #ffc0cb
+* #E7EDF4 = light
+* #19CCAA = Biru
+* #1D1425 = black  burlywood
+*background: burlywood;
+ */
+
+$content-width: 800px;
+$main: white;
+$font-style: 'Open Sans', sans-serif;
+$font-color: #262626;
+$link-color: brown;
+$link-hover-color: peru;
+$heading-font: 'Muli', sans-serif;
+$heading-font-color: chocolate;
+$light: #E7EDF4;
+$header: #1D1425;  
+
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+} 
