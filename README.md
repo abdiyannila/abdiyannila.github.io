@@ -1,4 +1,4 @@
-# Start Jekyll
+# First Code With Jekyll
 [Demo](http://abdiyannila.github.io)
 
 A getting started exercise with Jekyll. Jekyll with a simple and blog-aware static site generator built in Ruby.
@@ -29,10 +29,16 @@ Refers to `.scss` files within the `_sass` directory that define the theme's sty
   - `_layout.scss` &mdash; Defines the visual style for various layouts.
   - `_syntax-highlighting.scss` &mdash; Defines the styles for syntax-highlighting.
 
-### CSS to import all file from Sass
-### Blog to display  '_posts' 
+### CSS 
+
+Refers to import all file from Sass
+
+### Blog 
+
+Refers to display  '_posts' 
 
 This is just a starter theme!
+
 ## Getting Started
 	To start coding away, first clone this repository  (http://abdiyannila.github.io)
 
